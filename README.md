@@ -10,3 +10,5 @@ cd sip
 make
 ./bin/sip new <name of project>
 ```
+
+#### License - `MIT`
