@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "extract.h": "c",
+        "text.h": "c"
+    }
+}
